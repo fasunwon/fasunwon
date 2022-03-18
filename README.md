@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Favor Fasunwon
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning new technology stacks to advance my web dev skills
-- 💞️ I’m looking to collaborate on front-end projects
+- 🤝 I’m looking to collaborate on front-end projects
 - 📫 You can reach me by mail: favor_fasunwon21@hotmail.com
 
 <!---
