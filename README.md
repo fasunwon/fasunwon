@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Favor Fasunwon
-- 👀 I’m interested in Web Development and trying to get into cybersecurity
+- 👀 I’m interested in Fullstack Development
 - 🌱 I’m currently learning new technology stacks to advance my developer skills
 - 🤝 I’m looking to collaborate on projects
 - 📫 You can reach me by mail: favor_fasunwon21@hotmail.com
